@@ -33,7 +33,7 @@
 
 ## 🌐 联系我
 
-[![Email](https://img.shields.io/badge/邮箱-crescently%40example.com-red?style=flat&logo=gmail)](mailto:2376355613@qq.com)  
+[![Email](https://img.shields.io/badge/邮箱-2376355613%40qq.com-red?style=flat&logo=gmail)](mailto:2376355613@qq.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Crescently-181717?style=flat&logo=github)](https://github.com/Crescently)
 
 ---
